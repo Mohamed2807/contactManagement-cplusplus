@@ -1,0 +1,55 @@
+
+     Name:Ashik
+    Call :Out Going
+    Date :20/6/2022
+Duration  :0:3
+
+          Name:Bullet
+         Call :Out Going
+         Date :20/6/2022
+    Duration  :0:11
+
+          Name:5432167890
+         Call :Out Going
+         Date :20/6/2022
+    Duration  :0:4
+
+          Name:Ashik
+         Call :Out Going
+         Date :20/6/2022
+    Duration  :1:55
+
+          Name:Parthi
+         Call :Out Going
+         Date :21/6/2022
+    Duration  :1:34
+
+          Name:Ashik
+         Call :Out Going
+         Date :21/6/2022
+    Duration  :0:17
+
+          Name:1212121212
+         Call :Out Going
+         Date :21/6/2022
+    Duration  :0:3
+
+          Name:Kishore
+         Call :Out Going
+         Date :21/6/2022
+    Duration  :0:10
+
+          Name:123456789
+         Call :Out Going
+         Date :21/6/2022
+    Duration  :0:13
+
+          Name:Ash
+         Call :Out Going
+         Date :26/7/2022
+    Duration  :1:36
+
+          Name:6382404603
+         Call :Out Going
+         Date :26/7/2022
+    Duration  :1:53
